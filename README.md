@@ -36,9 +36,9 @@ Custom mode is operational and still being expanded. It supports selectable revi
 
 The current portfolio sample uses a deliberately flawed fictional internet-service notice.
 
-![Multi-agent review in progress](Screenshot%202026-10-17%20212210.png)
+![Completed multi-agent review with operator interaction](Screenshot%202026-10-17%20234634.png)
 
-*Real Custom-mode run: one reviewer report is open while another isolated reviewer is running and later reconciliation remains queued.*
+*Completed Custom-mode run showing independent reviewer reports side-by-side, all reviewer stages complete, reconciliation complete, the workflow stopped at the human decision gate, and Operator Chat being used to locate the reconciler output.*
 
 In the completed run:
 
@@ -50,6 +50,12 @@ In the completed run:
 - the workflow stopped for a human decision rather than approving or publishing automatically.
 
 See the portfolio-safe sample: [sample/README.md](sample/README.md).
+
+### Generated review outputs
+
+![Reviewer and reconciliation output folder](Screenshot%202026-10-17%20234656.png)
+
+*Generated output folder for the sample run, preserving separate reviewer reports and reconciliation artifacts rather than collapsing the review into one opaque response.*
 
 ## Operator Chat
 
