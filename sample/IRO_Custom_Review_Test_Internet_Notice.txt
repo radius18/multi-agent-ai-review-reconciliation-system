@@ -1,0 +1,21 @@
+CUSTOM REVIEW TEST INPUT — FICTIONAL CUSTOMER NOTICE
+
+This document intentionally contains mistakes for evaluating an AI review workflow.
+
+Subject: Scheduled Internet Network Upgrade
+
+Dear Customer,
+
+We is upgrading the network in your neighborhood to make your internet service more reliable. Maintenance begins next Tuesday at 10:00 p.m. and will be completed by 9:00 p.m. the same day.
+
+During the upgrade, every customer will remain connected without interruption. However, all customers should prepare for two to four hours without internet access.
+
+The upgrade is completely free. A one-time $15 network improvement fee will appear on your next bill.
+
+If you lose service, restart your router once. Do not contact customer support unless you have been disconnected for 48 hours. Customers who work from home should simply make other arrangements.
+
+We apologize for the minor inconvenience and guarantee that these improvements will prevent all future connection problems.
+
+Thank you for choosing Northstar Internet.
+
+Customer Operations Team
